@@ -1,0 +1,58 @@
+{
+    "admin": {
+        "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "role": "admin",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-01-31 22:41:09",
+        "last_login": "2026-06-25 22:24:19"
+    },
+    "user12": {
+        "password": "bd35283fe8fcfd77d7c05a8bf2adb85c773281927e12c9829c72a9462092f7c4",
+        "role": "user",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-02-26 22:36:43",
+        "last_login": "2026-03-05 00:37:13"
+    },
+    "user123": {
+        "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+        "role": "user",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-02-26 22:43:47",
+        "last_login": "2026-02-26 22:48:21"
+    },
+    "mani": {
+        "password": "f61622fdc7ab3ac33b32335b853f9889d486a0c5b2493353470ae3874c8bda0f",
+        "role": "user",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-03-07 14:42:31",
+        "last_login": "2026-04-11 21:02:54"
+    },
+    "12345": {
+        "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "role": "user",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-04-11 21:01:14",
+        "last_login": "2026-04-11 21:01:28"
+    },
+    "new user": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "role": "user",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-04-25 07:58:48",
+        "last_login": "2026-04-25 07:59:03"
+    },
+    "newuser2": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "role": "user",
+        "attempts": 0,
+        "locked": false,
+        "created_at": "2026-04-25 08:01:22",
+        "last_login": "2026-04-25 08:01:35"
+    }
+}
